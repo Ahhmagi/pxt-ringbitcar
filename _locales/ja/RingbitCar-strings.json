@@ -11,7 +11,7 @@
   "RingbitCar.TrackingStateType.Tracking_State_2|block": "◌ ●",
   "RingbitCar.TrackingStateType.Tracking_State_3|block": "◌ ◌",
   "RingbitCar.back|block": "フルスピードで後進",
-  "RingbitCar.back": "最高速度で後退します。少し曲がることがあります。",
+  "RingbitCar.back": "最高速度で走ります。少し曲がることがあります。",
   "RingbitCar.brake|block": "動きを止める",
   "RingbitCar.forward|block": "フルスピードで前進",
   "RingbitCar.forward": "最高速度で走ります。少し曲がることがあります。",

@@ -116,7 +116,7 @@ namespace RingbitCar {
     }
 
     /**
-    * Moves backward at full speed. It may drift slightly.
+    * Moves at full speed. It may drift slightly.
     */
     //% weight=8
     //% blockId=ringbitcar_back block="reverse at full speed"

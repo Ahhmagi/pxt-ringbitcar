@@ -1,5 +1,5 @@
 {
-  "RingbitCar.back": "以最大速度后退，可能会稍微跑偏。",
+  "RingbitCar.back": "以最大速度行驶，可能会稍微跑偏。",
   "RingbitCar.brake": "TODO: stop",
   "RingbitCar.forward": "以最大速度行驶，可能会稍微跑偏。",
   "RingbitCar.freestyle": "TODO: self setting speed",
@@ -15,7 +15,7 @@
   "RingbitCar.steering_angle": "按设定角度旋转，实际角度可能略有差异。",
   "RingbitCar.steering_angle|param|direction": "旋转方向",
   "RingbitCar.steering_angle|param|angle": "旋转角度，单位为度，例如：90",
-  "RingbitCar.running_distance": "按设定距离行驶，实际距离可能略有差异。",
+  "RingbitCar.running_distance": "按设定距离前进，实际距离可能略有差异。",
   "RingbitCar.running_distance|param|direction": "行驶方向",
   "RingbitCar.running_distance|param|distance": "行驶距离，单位为厘米，例如：10"
 }

@@ -1,5 +1,5 @@
 {
-  "RingbitCar.back": "最高速度で後退します。少し曲がることがあります。",
+  "RingbitCar.back": "最高速度で走ります。少し曲がることがあります。",
   "RingbitCar.forward": "最高速度で走ります。少し曲がることがあります。",
   "RingbitCar.steering_angle": "設定した角度だけ回転します。実際の角度は少しずれることがあります。",
   "RingbitCar.steering_angle|param|direction": "回転する方向",

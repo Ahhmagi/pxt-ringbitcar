@@ -1,5 +1,5 @@
 {
-  "RingbitCar.back": "Moves backward at full speed. It may drift slightly.",
+  "RingbitCar.back": "Moves at full speed. It may drift slightly.",
   "RingbitCar.brake": "TODO: stop",
   "RingbitCar.forward": "Moves at full speed. It may drift slightly.",
   "RingbitCar.freestyle": "TODO: self setting speed",
